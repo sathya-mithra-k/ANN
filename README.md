@@ -1,3 +1,3 @@
-# ANN\n 
-1. Churn_prediciton\n
+# ANN
+1. Churn_prediciton
 2. Car purchase price
